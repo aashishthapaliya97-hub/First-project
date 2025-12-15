@@ -1,6 +1,6 @@
-Pandas
-Numpy
-ploty
+streamlit
+pandas
 seaborn
-matplotlib
-scikit-learn
+plotly
+metaplotlib
+numpy
